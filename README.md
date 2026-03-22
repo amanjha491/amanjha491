@@ -31,5 +31,5 @@ Backend Engineer specializing in **Java Spring Boot, Microservices, and Scalable
 ---
 
 ## 📫 Connect with me
-- LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/aman-kumar-j-14baa4120/)
-- Email: aman4sep1@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/aman-kumar-j-14baa4120/
+- 📧 Email: aman4sep1@gmail.com
